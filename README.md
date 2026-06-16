@@ -1,2 +1,28 @@
-# 8259ef57-barbershop-management-customer
-Tired of losing customer ideas and complaints to sticky notes or fleeting conversations? Your barbershop's next big service improvement or product addition is slipping away—until you capture it in a dedicated system.  This Notion template transforms scattered feedback into a structured board where you can log, categorize, and prioritize every custo
+# Barbershop Management Customer Feedback and Feature Request Board Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sYaEX5iT3o8cVWcDWd0k0g)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sYaEX5iT3o8cVWcDWd0k0g)
+
